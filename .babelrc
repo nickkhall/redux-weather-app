@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "react",
+    "env",
+    ["es2015", { "modules": false }]
+  ],
+  "plugins": [
+    "transform-es2015-destructuring",
+    "transform-object-rest-spread"
+  ]
+}
